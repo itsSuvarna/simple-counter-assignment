@@ -1,0 +1,28 @@
+.temp-display{
+  height: 160px;
+  width: 160px;
+  background: rgb(147, 120, 221);
+  display: flex;
+  align-items: center;
+  padding-left: 40%;
+  font-size: 60px;
+  border-radius: 50%;
+}
+.btn-container{
+  height: 29px;
+  width: 1;
+  background: rgb(95, 146, 88);
+  margin-top: 49px;
+  text-align: center;
+
+}
+
+.btn{
+  background: rgb(55, 207, 157);
+  height: 24px;
+  width: 30px;
+}.btn2{
+  width: 30px;
+  background: rgb(85, 212, 206);
+}
+  
